@@ -8,6 +8,8 @@ A lo largo del curso utilizaremos **notebooks** de **Juypyer/Python** en [Google
   
 En nuestro caso, **Ubuntu/Linux** de 64bits, bajaremos el que dice [Miniconda3 Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh).
 
+A continuación, especificaremos lo que sigue del proceso para **Ubuntu/Linux**. Quienes posean **Windows** pueden leer [https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html).
+
 2. Vaya a la carpeta en donde se descargó el archivo `Miniconda3-latest-Linux-x86_64.sh`, y ejecute en una terminal (o consola bash) el comando
 
         $ bash Miniconda3-latest-Linux-x86_64.sh`
