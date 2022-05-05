@@ -2,7 +2,7 @@
 
 ## Prácticos 
 
-1. Jueves 5: Mapa Logístico.
+1. **Jueves 5:** Mapa Logístico.
 
 ### Google Colab
 
