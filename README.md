@@ -2,7 +2,7 @@
 
 ## Teóricos:
 
-1. **Jueves 5:** Sistemas dinámicos en una dimensión.
+1. **Jueves 5:** Sistemas dinámicos en una dimensión. Pueden encontrar las notas en la carpeta `teoricos`.
 
 2. **Viernes 6:** Sistemas dinámicos en varias dimensiones. Material recomendado:
 
